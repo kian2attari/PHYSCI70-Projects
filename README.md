@@ -1,4 +1,4 @@
-## Kian's PS70 Proejcts
+## Kian's PS70 Projects
 
 You can use the [editor on GitHub](https://github.com/kian2attari/PHYSCI70-Projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
